@@ -6,7 +6,6 @@ In the telecommunication industry, customers tend to change operators if not pro
 * [Dataset Information & Preprocessing](#dataset-information-and-preprocessing)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
 * [Base Model](#base-model)
-* [Augmentation Strategy](#augmentation-strategy)
 * [Model Building](#model-building)
 * [Class Imbalance](#class-imbalance)
 * [Final Model](#final-model)
