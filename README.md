@@ -5,12 +5,12 @@ In the telecommunication industry, customers tend to change operators if not pro
 ## Project Pipeline
 * [Dataset Information & Preprocessing](#dataset-information-and-preprocessing)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
-* [Base Model](#base-model)
-* [Model Building](#model-building)
-* [Class Imbalance](#class-imbalance)
-* [Final Model](#final-model)
-* [Conclusions](#conclusions)
-* [Libraries Used](#libraries-used)
+* [Base Model](#)
+* [Model Building](#)
+* [Class Imbalance](#)
+* [Final Model](#)
+* [Conclusions](#)
+* [Libraries Used](#)
 
 ### Dataset Information and Preprocessing
 
